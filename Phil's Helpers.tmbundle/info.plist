@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Phil's Helpers</string>
+	<key>ordering</key>
+	<array>
+		<string>D350AB16-AB64-41B9-BFB6-B0F6CD45C267</string>
+		<string>73A8BA73-DBBB-42DB-80B7-C87A56538DE9</string>
+		<string>63B24242-FD16-4FB0-B842-8481F7862E92</string>
+	</array>
+	<key>uuid</key>
+	<string>586066F8-6AB1-42F0-A87C-8A8C2347E9B9</string>
+</dict>
+</plist>
